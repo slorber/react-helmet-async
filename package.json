@@ -1,5 +1,5 @@
 {
-  "name": "react-helmet-async",
+  "name": "@slorber/react-helmet-async",
   "version": "1.3.0",
   "description": "Thread-safe Helmet for React 16+ and friends",
   "main": "lib/index.js",
